@@ -133,8 +133,8 @@ ID | text | province | province_student | province_correct | ... | time_sec
 
 ## 🧠 Authors
 - Team Name: `TEAM_THREE`
-- GitHub: [izunwaonu](https://github.com/izunwaonu)
-- GitHub: [izunwaonu](https://github.com/izunwaonu)
+- GitHub: [KAMRUZZAMAN-RUSSEL](https://github.com/KAMRUZZAMAN-RUSSEL)
+- GitHub: [Felix](https://github.com/izunwaonu)
 - GitHub: [izunwaonu](https://github.com/izunwaonu)
 
 ---
