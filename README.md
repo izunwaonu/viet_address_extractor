@@ -82,13 +82,13 @@ Sample format for `test.json`:
 
 ### 4. Run the Evaluation
 
-To test and evaluate your solution, run the command:
+To test and evaluate the solution, run the command:
 
 ```bash
 python test_runner.py
 ```
 
-This will execute your extractor and export results into an Excel file.
+This will execute the extractor and export results into an Excel file.
 
 ---
 
@@ -100,7 +100,7 @@ After running the script, you will see a file like:
 TEAM_THREE.xlsx
 ```
 
-It contains two sheets:
+It contains one excel file with two sheets:
 
 1. **summary** — includes:
    - Total correct predictions.
@@ -131,10 +131,11 @@ ID | text | province | province_student | province_correct | ... | time_sec
 
 ---
 
-## 🧠 Author
-
-- GitHub: [izunwaonu](https://github.com/izunwaonu)
+## 🧠 Authors
 - Team Name: `TEAM_THREE`
+- GitHub: [izunwaonu](https://github.com/izunwaonu)
+- GitHub: [izunwaonu](https://github.com/izunwaonu)
+- GitHub: [izunwaonu](https://github.com/izunwaonu)
 
 ---
 
