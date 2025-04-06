@@ -133,9 +133,9 @@ ID | text | province | province_student | province_correct | ... | time_sec
 
 ## 🧠 Authors
 - Team Name: `TEAM_THREE`
-- GitHub: [KAMRUZZAMAN-RUSSEL](https://github.com/KAMRUZZAMAN-RUSSEL)
-- GitHub: [Felix](https://github.com/XDcobra)
-- GitHub: [Justus](https://github.com/izunwaonu)
+- GitHub: [MD KAMRUZZAMAN RUSSEL](https://github.com/KAMRUZZAMAN-RUSSEL)
+- GitHub: [Felix Luca Krebs](https://github.com/XDcobra)
+- GitHub: [Justus Izuchukwu Onuh](https://github.com/izunwaonu)
 
 ---
 
