@@ -29,7 +29,7 @@ viet_address_extractor/
 
 ## 🚀 How to Run
 
-Follow the steps below to run the project and evaluate your implementation.
+Follow the steps below to run the project and evaluate the implementation.
 
 ### 1. Clone the Repository
 
