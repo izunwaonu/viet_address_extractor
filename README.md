@@ -135,7 +135,7 @@ ID | text | province | province_student | province_correct | ... | time_sec
 - Team Name: `TEAM_THREE`
 - GitHub: [KAMRUZZAMAN-RUSSEL](https://github.com/KAMRUZZAMAN-RUSSEL)
 - GitHub: [Felix](https://github.com/XDcobra)
-- GitHub: [izunwaonu](https://github.com/izunwaonu)
+- GitHub: [Justus](https://github.com/izunwaonu)
 
 ---
 
