@@ -134,7 +134,7 @@ ID | text | province | province_student | province_correct | ... | time_sec
 ## 🧠 Authors
 - Team Name: `TEAM_THREE`
 - GitHub: [KAMRUZZAMAN-RUSSEL](https://github.com/KAMRUZZAMAN-RUSSEL)
-- GitHub: [Felix](https://github.com/izunwaonu)
+- GitHub: [Felix](https://github.com/XDcobra)
 - GitHub: [izunwaonu](https://github.com/izunwaonu)
 
 ---
@@ -156,4 +156,4 @@ pip install -r requirements.txt
 
 ---
 
-Feel free to open an issue or reach out for improvements or questions.
+
